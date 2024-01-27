@@ -1,2 +1,2 @@
 # My-College-Demo
-Very simple and Basic college website.
+Very simple and basic college website.
